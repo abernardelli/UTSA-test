@@ -1,0 +1,20 @@
+.top-nav div {
+    display: inline-block;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    background-color: darkslategray;
+    color: lightgray;
+    width: 100px;
+    text-align: center;
+}
+
+.top-nav {
+    background-color: lightgrey;
+}
+
+.left-bar {
+    float: left;
+    color: blue;
+}
